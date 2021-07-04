@@ -38,7 +38,6 @@ def main():
 
     clock = pygame.time.Clock()
      
-    # main loop
     while running:
         clock.tick(10)
         # Arthur test
